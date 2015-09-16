@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說三摩竭經
+#+DATE: 2015-08-30 19:32:34.713766
+#+PROPERTY: JUAN 0
