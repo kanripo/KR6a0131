@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:32:35.485608
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:43
 #+TITLE: 佛說三摩竭經
 #+PROPERTY: CBETA_ID T02n0129
 #+PROPERTY: ID KR6a0131
